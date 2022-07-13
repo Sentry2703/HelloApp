@@ -71,7 +71,7 @@ class MainActivity : AppCompatActivity() {
             } else if (k % 3 == 2) {
                 findViewById<TextView>(R.id.textView).text = "Or is it??????!!!!!!"
             } else if (k % 3 == 0) {
-                findViewById<TextView>(R.id.textView).text = "Nah just kidding! It's the best"
+                findViewById<TextView>(R.id.textView).text = "Yeah! It's the best"
             }
         }
 
