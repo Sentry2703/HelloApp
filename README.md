@@ -2,7 +2,6 @@
 A simple android app that allows you to cycle through three background colors and three font colors
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/v6YQFCiETu.gif" width=200><br>
 
